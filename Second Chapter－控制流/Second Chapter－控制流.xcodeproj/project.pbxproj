@@ -26,6 +26,7 @@
 		8D0203A81DD99D4E003D8239 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8D0203AB1DD99D4E003D8239 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8D0203AD1DD99D4E003D8239 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8D0203B41DD99DF1003D8239 /* For-In 循环.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "For-In 循环.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +84,7 @@
 		8D0203B31DD99D6B003D8239 /* 控制流 */ = {
 			isa = PBXGroup;
 			children = (
+				8D0203B41DD99DF1003D8239 /* For-In 循环.playground */,
 			);
 			name = "控制流";
 			sourceTree = "<group>";
