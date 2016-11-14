@@ -18,6 +18,7 @@
 /* Begin PBXFileReference section */
 		8D7342C61DB5F29400B81433 /* 数组.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "数组.playground"; sourceTree = "<group>"; };
 		8D7342C71DB6123F00B81433 /* 集合.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "集合.playground"; sourceTree = "<group>"; };
+		8D7342C81DB7BDC600B81433 /* 字典.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "字典.playground"; sourceTree = "<group>"; };
 		8DBB25171DB5F1230024D094 /* Second Chapter－集合类型.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Second Chapter－集合类型.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8DBB251B1DB5F1230024D094 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		8DBB251D1DB5F1230024D094 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -89,6 +90,7 @@
 				8DBB25341DB5F24D0024D094 /* 集合的可变性.playground */,
 				8D7342C61DB5F29400B81433 /* 数组.playground */,
 				8D7342C71DB6123F00B81433 /* 集合.playground */,
+				8D7342C81DB7BDC600B81433 /* 字典.playground */,
 			);
 			path = "集合类型";
 			sourceTree = "<group>";
