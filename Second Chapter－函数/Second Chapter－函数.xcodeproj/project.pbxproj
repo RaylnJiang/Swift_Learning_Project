@@ -28,6 +28,7 @@
 		8D5CB32E1E4BFFA000D71F58 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8D5CB3351E4BFFE300D71F58 /* 函数的定义与调用.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "函数的定义与调用.playground"; sourceTree = "<group>"; };
 		8D5CB3361E4C01AA00D71F58 /* 函数参数与返回值.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "函数参数与返回值.playground"; sourceTree = "<group>"; };
+		8D5CB3371E4C144100D71F58 /* 函数参数标签和参数名称.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "函数参数标签和参数名称.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +88,7 @@
 			children = (
 				8D5CB3351E4BFFE300D71F58 /* 函数的定义与调用.playground */,
 				8D5CB3361E4C01AA00D71F58 /* 函数参数与返回值.playground */,
+				8D5CB3371E4C144100D71F58 /* 函数参数标签和参数名称.playground */,
 			);
 			path = "函数";
 			sourceTree = "<group>";
