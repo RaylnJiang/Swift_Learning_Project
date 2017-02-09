@@ -26,6 +26,9 @@
 		8D3BD3CE1E4C4FDE00EE05B6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8D3BD3D11E4C4FDE00EE05B6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8D3BD3D31E4C4FDE00EE05B6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8D3BD3DA1E4C50B100EE05B6 /* 闭包.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "闭包.playground"; sourceTree = "<group>"; };
+		8D3BD3DB1E4C525C00EE05B6 /* 闭包表达式.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "闭包表达式.playground"; sourceTree = "<group>"; };
+		8D3BD3DC1E4C562400EE05B6 /* 闭包表达式语法.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "闭包表达式语法.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +86,9 @@
 		8D3BD3D91E4C4FEC00EE05B6 /* 闭包 */ = {
 			isa = PBXGroup;
 			children = (
+				8D3BD3DA1E4C50B100EE05B6 /* 闭包.playground */,
+				8D3BD3DB1E4C525C00EE05B6 /* 闭包表达式.playground */,
+				8D3BD3DC1E4C562400EE05B6 /* 闭包表达式语法.playground */,
 			);
 			path = "闭包";
 			sourceTree = "<group>";
