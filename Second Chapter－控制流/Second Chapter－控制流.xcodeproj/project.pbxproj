@@ -29,6 +29,7 @@
 		8D0203B41DD99DF1003D8239 /* For-In 循环.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "For-In 循环.playground"; sourceTree = "<group>"; };
 		8D0203B51DD9A37E003D8239 /* While 循环.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "While 循环.playground"; sourceTree = "<group>"; };
 		8D65F6B91E26142100A86D67 /* 条件语句.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "条件语句.playground"; sourceTree = "<group>"; };
+		8DF2E5531E4AB88300A3C1C5 /* 控制转移语句.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "控制转移语句.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +90,7 @@
 				8D0203B41DD99DF1003D8239 /* For-In 循环.playground */,
 				8D0203B51DD9A37E003D8239 /* While 循环.playground */,
 				8D65F6B91E26142100A86D67 /* 条件语句.playground */,
+				8DF2E5531E4AB88300A3C1C5 /* 控制转移语句.playground */,
 			);
 			name = "控制流";
 			sourceTree = "<group>";
@@ -278,6 +280,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "Second Chapter－控制流/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.ebaonet.Second-Chapter----";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -289,6 +292,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "Second Chapter－控制流/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.ebaonet.Second-Chapter----";
 				PRODUCT_NAME = "$(TARGET_NAME)";
