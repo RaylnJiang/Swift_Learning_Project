@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8D3BD3B51E4C4BE000EE05B6 /* 嵌套函数.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "嵌套函数.playground"; sourceTree = "<group>"; };
 		8D5CB31A1E4BFFA000D71F58 /* Second Chapter－函数.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Second Chapter－函数.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D5CB31E1E4BFFA000D71F58 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		8D5CB3201E4BFFA000D71F58 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -91,6 +92,7 @@
 				8D5CB3361E4C01AA00D71F58 /* 函数参数与返回值.playground */,
 				8D5CB3371E4C144100D71F58 /* 函数参数标签和参数名称.playground */,
 				8D5CB3381E4C3FA000D71F58 /* 函数类型.playground */,
+				8D3BD3B51E4C4BE000EE05B6 /* 嵌套函数.playground */,
 			);
 			path = "函数";
 			sourceTree = "<group>";
@@ -323,6 +325,7 @@
 				8D5CB3331E4BFFA000D71F58 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
