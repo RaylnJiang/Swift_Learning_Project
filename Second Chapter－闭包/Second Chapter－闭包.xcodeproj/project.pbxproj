@@ -31,6 +31,7 @@
 		8D3BD3DC1E4C562400EE05B6 /* 闭包表达式语法.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "闭包表达式语法.playground"; sourceTree = "<group>"; };
 		8D3BD3DD1E4C5AE900EE05B6 /* 根据上下文推断类型.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "根据上下文推断类型.playground"; sourceTree = "<group>"; };
 		8D3BD3DE1E4D424A00EE05B6 /* 单表达式闭包隐式返回.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "单表达式闭包隐式返回.playground"; sourceTree = "<group>"; };
+		8D3BD3DF1E4D498200EE05B6 /* 参数名称缩写.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "参数名称缩写.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +94,7 @@
 				8D3BD3DC1E4C562400EE05B6 /* 闭包表达式语法.playground */,
 				8D3BD3DD1E4C5AE900EE05B6 /* 根据上下文推断类型.playground */,
 				8D3BD3DE1E4D424A00EE05B6 /* 单表达式闭包隐式返回.playground */,
+				8D3BD3DF1E4D498200EE05B6 /* 参数名称缩写.playground */,
 			);
 			path = "闭包";
 			sourceTree = "<group>";
