@@ -36,6 +36,7 @@
 		8D3BD3E11E4D51DF00EE05B6 /* 尾随闭包.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "尾随闭包.playground"; sourceTree = "<group>"; };
 		8D3BD3EA1E512E3C00EE05B6 /* 值捕获.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "值捕获.playground"; sourceTree = "<group>"; };
 		8D3BD3EB1E51333C00EE05B6 /* 闭包是引用类型.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "闭包是引用类型.playground"; sourceTree = "<group>"; };
+		8D3BD3EC1E5139D900EE05B6 /* 逃逸闭包.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "逃逸闭包.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +104,7 @@
 				8D3BD3E11E4D51DF00EE05B6 /* 尾随闭包.playground */,
 				8D3BD3EA1E512E3C00EE05B6 /* 值捕获.playground */,
 				8D3BD3EB1E51333C00EE05B6 /* 闭包是引用类型.playground */,
+				8D3BD3EC1E5139D900EE05B6 /* 逃逸闭包.playground */,
 			);
 			path = "闭包";
 			sourceTree = "<group>";
