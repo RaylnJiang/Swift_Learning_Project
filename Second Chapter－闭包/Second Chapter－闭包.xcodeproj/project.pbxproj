@@ -37,6 +37,7 @@
 		8D3BD3EA1E512E3C00EE05B6 /* 值捕获.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "值捕获.playground"; sourceTree = "<group>"; };
 		8D3BD3EB1E51333C00EE05B6 /* 闭包是引用类型.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "闭包是引用类型.playground"; sourceTree = "<group>"; };
 		8D3BD3EC1E5139D900EE05B6 /* 逃逸闭包.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "逃逸闭包.playground"; sourceTree = "<group>"; };
+		8D3BD3ED1E5151E800EE05B6 /* 自动闭包.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "自动闭包.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +106,7 @@
 				8D3BD3EA1E512E3C00EE05B6 /* 值捕获.playground */,
 				8D3BD3EB1E51333C00EE05B6 /* 闭包是引用类型.playground */,
 				8D3BD3EC1E5139D900EE05B6 /* 逃逸闭包.playground */,
+				8D3BD3ED1E5151E800EE05B6 /* 自动闭包.playground */,
 			);
 			path = "闭包";
 			sourceTree = "<group>";
@@ -119,6 +121,7 @@
 				8D3BD3BB1E4C4FDE00EE05B6 /* Sources */,
 				8D3BD3BC1E4C4FDE00EE05B6 /* Frameworks */,
 				8D3BD3BD1E4C4FDE00EE05B6 /* Resources */,
+				8D3BD3EF1E51731700EE05B6 /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -174,6 +177,22 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		8D3BD3EF1E51731700EE05B6 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "TAGS=\"TODO:|FIXME:\"\necho \"searching ${SRCROOT} for ${TAGS}\"\nfind \"${SRCROOT}\" \\( -name \"*.swift\" \\) -print0 | xargs -0 egrep --with-filename --line-number --only-matching \"($TAGS).*\\$\" | perl -p -e \"s/($TAGS)/ warning: \\$1/\"";
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		8D3BD3BB1E4C4FDE00EE05B6 /* Sources */ = {
