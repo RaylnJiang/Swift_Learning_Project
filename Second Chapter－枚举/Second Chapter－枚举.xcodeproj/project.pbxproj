@@ -28,6 +28,7 @@
 		8D3BD40D1E51741900EE05B6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8D3BD4141E5185D400EE05B6 /* 枚举语法.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "枚举语法.playground"; sourceTree = "<group>"; };
 		8D3BD4151E5189AE00EE05B6 /* 使用Switch语句匹配枚举值.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "使用Switch语句匹配枚举值.playground"; sourceTree = "<group>"; };
+		8D3BD4161E518D7600EE05B6 /* 关联值.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "关联值.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +88,7 @@
 			children = (
 				8D3BD4141E5185D400EE05B6 /* 枚举语法.playground */,
 				8D3BD4151E5189AE00EE05B6 /* 使用Switch语句匹配枚举值.playground */,
+				8D3BD4161E518D7600EE05B6 /* 关联值.playground */,
 			);
 			path = "枚举";
 			sourceTree = "<group>";
